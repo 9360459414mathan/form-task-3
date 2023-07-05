@@ -1,0 +1,21 @@
+.hi1{
+	
+	background-color:lightgray;
+}
+
+.hi2 input{
+	
+	width:100%;
+		
+}
+
+button{
+	
+	padding:10px 100px 10px 100px;
+	background-color:green;
+	width:100%;
+	color:white;
+	text-align:center;
+	border:none;
+
+}
